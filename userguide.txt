@@ -1,0 +1,7 @@
+To run this project:
+- first open the project folder emm-health-auth-demo in visual studio code
+- then install the project dependencies using npm install
+- then run the project using npm run dev
+- you can create a user account using the localhost:3000/signup
+- then you enter your login details at localhost:3000/login
+- after logging in to site, you will be redirected to localhost:3000/dashboard, then you can log out
